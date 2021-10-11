@@ -1,137 +1,84 @@
-<h1 align=center>Academia Hugo | <a target="_blank" href="https://demo.gethugothemes.com/academia" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Facademia%2F">Page Speed (55%)</a></h1>
-
-<p align=center>
-  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.55.0" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.55.0&color=f00&logo=hugo" />
-  </a>
-
-  <a href="https://github.com/themefisher/academia-hugo/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/github/license/themefisher/academia-hugo" alt="license"></a>
-
-  <img src="https://img.shields.io/github/languages/code-size/themefisher/academia-hugo" alt="code size">
-
-  <a href="https://github.com/themefisher/academia-hugo/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/themefisher/academia-hugo" alt="contributors"></a>
-
-  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
-    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
-      alt="follow on Twitter"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://demo.gethugothemes.com/thumbnails/academia.webp" alt="screenshot" width="100%">
-</p>
-
----
-
-## Features
-- Google analytics support
-- Multiple author available
-- Contact form Support
-- Post reading time calculator
-- Google map support
-- Post reading time calculator
-- Google page speed optimized ( 55% )
-- Open graph meta tag
-- Twitter card meta tag
+<div align="center">
+  <h1><a href="https://gethugothemes.com/products/academia/" target="_blank" rel="noopener noreferrer">Academia Hugo</a></h1>
+  <img src="https://user-images.githubusercontent.com/37659754/65593588-9d6f4a80-dfb2-11e9-93f5-cf3c33f2110f.png" width="100%" alt="Liva Blog template by themefisher">
+</div>
 
 
-## Local development
+## About
+This is an adaptation of the hugo theme [starter-academic](https://github.com/wowchemy/starter-academic) by [wowchemy](https://github.com/wowchemy). It supports most of the features of the original theme, and many new features. We improved the core design and added more latest features . 
 
-```bash
-# clone the repository
-git clone git@github.com:themefisher/academia-hugo.git
 
-# cd in the project directory
-$ cd academia-hugo/exampleSite/
+**Key features:**
 
-# Start local dev server
-$ hugo server --themesDir ../..
+- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 15+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Installation
+
+Navigate to your themes folder in your Hugo site and use the following commands:
+
+**Note : You must use `hugo-extended` version to compile SCSS**
+
 ```
-Or Check out [Full Documentation](https://docs.gethugothemes.com/academia/?ref=github).
+$ mkdir themes
+$ cd themes
+$ git clone git@github.com:themefisher/academia-hugo.git
+```
 
-## Content Management System
+## Main features
 
-[![import to
-Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/academia-hugo&engine=hugo&version=0.87.0)
+* Fully Responsive Ready.
+* Powered by bootstrap 4 framework.
+* Product Showcase
+* Email Subscription Section
+* Documented codes.
 
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
-repository in Forestry](https://app.forestry.io/quick-start?repo=themefisher/academia-hugo&engine=hugo&version=0.87.0) and
-you will be able to edit and preview your site ✨.
-
-Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
-
-
-## Deployment and hosting
-
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themefisher/academia-hugo)
-
-Follow the steps.
-
-## Prefer a video? (Hugo + Netlify + Forestry)
-Build your website with **Academia Hugo** theme by following these easy steps (No Coding Required!)
-[Video Tutorial](https://youtu.be/ResipmZmpDU).
-
-<!-- reporting issue -->
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the academia Template. Please Search [existing
-issues](https://github.com/themefisher/academia-hugo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/themefisher/academia-hugo/issues).
 
-## Academia Hugo Powered Websites
-- https://www.actiphysique.fr/
-- https://www.azurethamesvalley.com/
-- https://kinkeldey.com/
-- https://garthorr.com/
-- https://gaug.co.uk/
-- https://idmn.me/
-- http://graysonwhite.com/
-- https://makotokawano.com/
-- https://www.mehrnazamiri.com/
-- https://osorensen.rbind.io/
-- https://www.yongjiguan.com/
-- https://www.tkovs.com/
-- https://dipterix.org/
-- https://timiowourocom.firebaseapp.com/
-- https://svensmark.jp/
-- https://www.hannesdatta.com/
+We use GitHub Issues as the official bug tracker for the Academia Template. Please Search [existing issues](https://github.com/themefisher/academia-hugo/issues). It’s possible someone has already reported the same problem.
+If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/academia-hugo/issues)
 
+## Technical Support or Questions (Paid)
 
-View all the websites powered by Academia Hugo [here](https://github.com/themefisher/academia-hugo/wiki/Popular-sites-powered-by-Academia-Hugo). Want to submit your own website powered by Academia Hugo? You can submit it [here](https://github.com/themefisher/academia-hugo/discussions/33).
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.  
 
-<!-- licence -->
-## License
-Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
-[Gethugothemes](https://gethugothemes.com)
+## Donate Us (Author) 
+This project needs you! If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, feel free to donate. Your donation is highly appreciated . Thank you!
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/academia-hugo/blob/master/LICENSE.md) license.
+* **[Donate $10](https://www.paypal.me/themefisher/10USD)**: Thank's for creating this project, here's a tea (or some juice) for you!
+* **[Donate $20](https://www.paypal.me/themefisher/20USD)**: Wow, I am stunned. Let me take you to the movies!
+* **[Donate $30](https://www.paypal.me/themefisher/30USD)**: I really appreciate your work, let's grab some lunch!
+* **[Donate $40](https://www.paypal.me/themefisher/40USD)**: That's some awesome stuff you did right there, dinner is on me!
+* **[Donate $50](https://www.paypal.me/themefisher/50USD)**: I really really want to support this project, great job!
+* **[Donate $100](https://www.paypal.me/themefisher/100USD)**: You are the man! This project saved me hours (if not days) of struggle and hard work, simply awesome!
+* **[Donate $1500](https://www.paypal.me/themefisher/1500USD)**: Go buddy, buy Macbook Pro for yourself!
 
-**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
-share those images.
-
-<!-- resources -->
-## Special Thanks
-- [Bootstrap](https://getbootstrap.com)
-- [Jquery](https://jquery.com)
-- [Reveal](https://github.com/hakimel/reveal.js)
-- [Isotope](https://isotope.metafizzy.co/)
-- [Fancybox](https://fancyapps.com/fancybox/)
-- [Highlight](https://github.com/highlightjs/highlight.js/)
-- [Font Awesome Icons](https://fontawesome.com)
-- [Google Fonts](https://fonts.google.com/)
-- [All Contributors](https://github.com/themefisher/academia-hugo/graphs/contributors)
-
+Of course, you can also choose what you want to donate, all donations are awesome !
 
 ## Hire Us
-We are available for **Hiring** for your next HUGO project. Please, check our
-[services](https://gethugothemes.com/services/?ref=github)
+We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
 
-<!-- premium themes -->
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![vixcon](https://demo.gethugothemes.com/thumbnails/vixcon.webp)](https://gethugothemes.com/products/vixcon/) | [![delta](https://demo.gethugothemes.com/thumbnails/delta.webp)](https://gethugothemes.com/products/delta/) |
+
+
+## Premium Themes
+
+| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Phantop](https://gethugothemes.com/wp-content/uploads/edd/2019/06/Phantom.jpg)](https://gethugothemes.com/products/phantom-hugo-theme/) | [![redlab](https://gethugothemes.com/wp-content/uploads/edd/2019/09/redlab-hugo-thumbnail.jpg)](https://gethugothemes.com/products/redlab-hugo/) |
 |:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Vixcon** | **Delta** |
+| **Hugo Mega Bundle**  | **Phantom**  | **Red Lab**  |
+| [![GoDocs](https://gethugothemes.com/wp-content/uploads/edd/2020/02/Home-Page-2.png)](https://gethugothemes.com/products/godocs-hugo-documentation-theme/) | [![Influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) | [![Kross](https://gethugothemes.com/wp-content/uploads/edd/2019/07/kross-portfolio-template.jpg)](https://gethugothemes.com/products/kross-hugo-theme/) |
+| **GoDocs** | **Influencer** | **Kross** |
+| [![Timer](https://gethugothemes.com/wp-content/uploads/edd/2019/07/Timer.jpg)](https://gethugothemes.com/products/timer-hugo-theme/) | [![Parsa](https://gethugothemes.com/wp-content/uploads/edd/2019/07/parsa-768x576.jpg)](https://gethugothemes.com/products/parsa-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
+| **Timer** | **Parsa** | **More Hugo Themes** |
