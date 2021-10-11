@@ -2,147 +2,163 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.org/courses/example/example1/</loc>
+    <loc>https://retaoliveira.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.1/example3/</loc>
+    <loc>https://retaoliveira.github.io/courses/example.1/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.2/example3/</loc>
+    <loc>https://retaoliveira.github.io/courses/example.2/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.1/</loc>
+    <loc>https://retaoliveira.github.io/courses/example.1/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.2/</loc>
+    <loc>https://retaoliveira.github.io/courses/example.2/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example/</loc>
+    <loc>https://retaoliveira.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.2/example4/</loc>
+    <loc>https://retaoliveira.github.io/courses/example.2/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example/example2/</loc>
+    <loc>https://retaoliveira.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.1/example4/</loc>
+    <loc>https://retaoliveira.github.io/courses/example.1/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/</loc>
+    <loc>https://retaoliveira.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/talk/coding/</loc>
+    <loc>https://retaoliveira.github.io/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/talk/qualitative/</loc>
+    <loc>https://retaoliveira.github.io/talk/qualitative/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/talk/</loc>
+    <loc>https://retaoliveira.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/talk/synthesizing/</loc>
+    <loc>https://retaoliveira.github.io/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/</loc>
+    <loc>https://retaoliveira.github.io/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://retaoliveira.github.io/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://retaoliveira.github.io/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://retaoliveira.github.io/post/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://retaoliveira.github.io/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://retaoliveira.github.io/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://retaoliveira.github.io/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://retaoliveira.github.io/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://retaoliveira.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/admin/</loc>
+    <loc>https://retaoliveira.github.io/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication_types/3/</loc>
+    <loc>https://retaoliveira.github.io/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/preprint/</loc>
+    <loc>https://retaoliveira.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/</loc>
+    <loc>https://retaoliveira.github.io/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication_types/</loc>
+    <loc>https://retaoliveira.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/</loc>
+    <loc>https://retaoliveira.github.io/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/source-themes/</loc>
+    <loc>https://retaoliveira.github.io/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.org/post/jupyter/</loc>
+    <loc>https://retaoliveira.github.io/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.org/slides/</loc>
+    <loc>https://retaoliveira.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/slides/example/</loc>
+    <loc>https://retaoliveira.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/privacy/</loc>
+    <loc>https://retaoliveira.github.io/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/artificial-intelligence/</loc>
+    <loc>https://retaoliveira.github.io/project/artificial-intelligence/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/deep-learning/</loc>
+    <loc>https://retaoliveira.github.io/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/deep-learning/</loc>
+    <loc>https://retaoliveira.github.io/project/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/demo/</loc>
+    <loc>https://retaoliveira.github.io/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/external-project/</loc>
+    <loc>https://retaoliveira.github.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/human/</loc>
+    <loc>https://retaoliveira.github.io/tags/human/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/internal-project/</loc>
+    <loc>https://retaoliveira.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/</loc>
+    <loc>https://retaoliveira.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/robotics/</loc>
+    <loc>https://retaoliveira.github.io/project/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/robotics/</loc>
+    <loc>https://retaoliveira.github.io/tags/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/skin-cancer-ai/</loc>
+    <loc>https://retaoliveira.github.io/project/skin-cancer-ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post/snail/</loc>
+    <loc>https://retaoliveira.github.io/post/snail/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/academia/</loc>
+    <loc>https://retaoliveira.github.io/tags/academia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post/getting-started/</loc>
+    <loc>https://retaoliveira.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication_types/2/</loc>
+    <loc>https://retaoliveira.github.io/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/journal-article/</loc>
+    <loc>https://retaoliveira.github.io/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/robert-ford/</loc>
+    <loc>https://retaoliveira.github.io/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication_types/1/</loc>
+    <loc>https://retaoliveira.github.io/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/conference-paper/</loc>
+    <loc>https://retaoliveira.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.org/categories/</loc>
   </url>
 </urlset>
